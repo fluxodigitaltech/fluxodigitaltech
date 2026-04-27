@@ -1,18 +1,23 @@
 # Fluxo Digital Tech
 
-**Automação, Inteligência Artificial e Desenvolvimento Web para negócios.**
+**Marketing & Tecnologia — Infraestrutura, Performance & Vendas Digitais.**
 
-Transformamos processos manuais em fluxos automatizados, integramos sistemas e construímos soluções digitais que escalam o seu negócio.
+Não somos agência. Somos o motor de quem vende. Plataforma própria de inteligência artificial, atendimento omnichannel e e-mail marketing — operada por estrategistas para escalar negócios com previsibilidade.
+
+[![Site](https://img.shields.io/badge/Site-fluxodigitaltech.com.br-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fluxodigitaltech.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-@fluxodigital.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fluxodigital.tech/)
+[![Email](https://img.shields.io/badge/Email-fluxodigitaltech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fluxodigitaltech@gmail.com)
 
 ---
 
 ## 🚀 O que fazemos
 
 - **Automação com n8n** — workflows para WhatsApp, Instagram, e-mail, Google Drive e CRMs
-- **Integrações de IA** — chatbots, atendimento automatizado e processamento inteligente de mensagens
+- **Inteligência Artificial** — chatbots, atendimento omnichannel e processamento inteligente de mensagens
+- **Performance & Vendas Digitais** — funis, tráfego pago e otimização de conversão
+- **E-mail Marketing** — campanhas, automações e réguas de relacionamento
 - **Desenvolvimento Web** — landing pages, sites institucionais e e-commerces
-- **Marketing Digital** — gestão de redes sociais, tráfego pago e identidade visual
-- **Consultoria em Tecnologia** — diagnóstico, implantação e otimização de processos digitais
+- **Consultoria em Tecnologia** — diagnóstico, plano com KPI compartilhado e implantação em 14 dias
 
 ## 🛠️ Stack & Ferramentas
 
@@ -33,8 +38,10 @@ Transformamos processos manuais em fluxos automatizados, integramos sistemas e c
 
 ## 📫 Fale com a gente
 
-- 📧 **E-mail:** fluxodigitaltech@gmail.com
-- 🌐 **GitHub:** [@fluxodigitaltech](https://github.com/fluxodigitaltech)
+- 🌐 **Site:** [fluxodigitaltech.com.br](https://fluxodigitaltech.com.br)
+- 📸 **Instagram:** [@fluxodigital.tech](https://www.instagram.com/fluxodigital.tech/)
+- 📧 **E-mail:** [fluxodigitaltech@gmail.com](mailto:fluxodigitaltech@gmail.com)
+- 📍 **Localização:** São Caetano do Sul, SP — Brasil
 
 ---
 
